@@ -1,4 +1,4 @@
-Elapsed Time (ms), Response Time (ms), Alphabet, Correct, Error Type, Pitch, Yaw, Roll
+Elapsed Time (ms), Response Time (ms), Alphabet,Correct, Error Type, Pitch, Yaw, Roll
 1267,1267, P, Yes, None,179.66,184.4655,175.59
 3334,1322, O, Yes, None,177.36,176.5136,176.92
 4805,790, N, Yes, None,175.94,185.269,176.46
